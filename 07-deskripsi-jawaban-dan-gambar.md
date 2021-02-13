@@ -1,1 +1,1 @@
-menurut saya reversse proxy merupakan sebuah server perantara yang bertugas meneruskan request client ke server yang dituju dengan tujuan agar menjadi firewall apabila terjadi cyber attack sekaligus dapat menangani load balancing ketika terjadi overload traffic.
+Tool untuk monitoring server yang berskala besar biasanya banyak menggunakan prometheus dan grafana 
