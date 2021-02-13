@@ -2,4 +2,4 @@ CI/CD penting dikarenakan dapat mendorong proses pengembangan sistem dan mendete
 
 
 
-![alt text]
+![alt text](https://github.com/asepboy/devops-dumbways-btch4-kl2/blob/master/folder-image-jawaban/04.png)
