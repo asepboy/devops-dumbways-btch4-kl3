@@ -2,4 +2,4 @@ Menurut saya DevOps singkatan dari Developer dan Operation yang dimana sebuah me
 
 DevOps memiliki peran penting bagi perusahaan dalam memastikan kualitas pembaharuan dan perubahan inovasi produk ke pasar dengan lebih cepat dan mempertahankan pengalaman positif bagi pengguna akhir.
 
-![alt text](https://github.com/asepboy/devops-dumbways-btch4-kl2/blob/master/folder-image-jawaban/01.png)
+![alt text](https://github.com/asepboy/devops-dumbways-btch4-kl3/blob/main/folder-image-jawaban/01.png)
