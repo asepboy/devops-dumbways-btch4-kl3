@@ -6,16 +6,12 @@
 ## Sumber Referensi :
    No. 1 : https://www.padok.fr/en/blog/devops-process
    
-   No. 2 : https://www.gangboard.com/blog/aws-vs-openstack
+   No. 2 : https://www.biznetgio.net/en/news/mengenal-docker-kubernetes
    
-   No. 3 : https://vatih.com/bisnis/cara-menggunakan-git/
+   No. 3 : https://dev.to/asimdahall/using-grep-and-history-command-to-find-previous-commands-in-linux-2bco
    
    No. 4  : https://www.lucidchart.com/blog/devops-process-flow
    
-   no. 5  : https://www.ibm.com/cloud/blog/chef-ansible-puppet-terraform
+   No. 7  : https://medium.com/codelabs-unikom/microservices-apaan-tuh-b9f5d56e8848
    
-   No. 6  : https://www.dewaweb.com/blog/pentingnya-load-balancing-untuk-server/
-   
-   No. 7  : https://www.jajaldoang.com/id/post/monitor-server-metrics-with-prometheus-grafana/
-   
-   No. 8  : https://www.petanikode.com/hugo-hosting-github/
+   No. 8  : https://help.heroku.com/58GWW5CQ/can-i-use-wordpress-on-heroku
