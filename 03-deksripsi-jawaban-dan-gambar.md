@@ -2,3 +2,4 @@ untuk melihat command yang pernah dilakukan sebelumnya adalah dengan menggunakan
 
 seperti gambar berikut :
 
+![alt text](https://github.com/asepboy/devops-dumbways-btch4-kl3/blob/main/folder-image-jawaban/03.png)
